@@ -12,7 +12,7 @@ Trebuie sa ne asiguram ca pe google drive mai exista spatiu pentru salvarea fold
 
 # Utilizarea 
 Se va rula prima data fisierul TFRecords.ipynb, dupa ce vom avea salvat folderul tfds, o sa putem rula si cel de al doilea fisier.
-Este foarte sa ne asiguram ca toate casetele sa fie rulate in ordine.
+Este important sa ne asiguram ca toate casetele sa fie rulate in ordine.
 
 # Utilizarea generate
 Pentru a utiliza functia generate vom avea nevoie sa compilam modelul cu parametrul run_eagerly=True
